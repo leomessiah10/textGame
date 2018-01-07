@@ -29,7 +29,7 @@ elif ques == 'Y' or ques == 'y' :
             #printguess == rand_num :
             condition = 0
             print('Great ....You have guessed a right number')
-            print('You have guessed in ',tries, 'chances')
+            print('You have guessed the nunber in ',tries, 'chances')
             break
 else :
     print('You are something that the world wants to get rid off')
